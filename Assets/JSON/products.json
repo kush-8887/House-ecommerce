@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Sofa Chair",
+                "price": 7000,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/sofa-chair.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "Sofa",
+                "price": 20000,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/black-sofa.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "Dining Table",
+                "price": 15000,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/dining-table.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "King Size Bedd",
+                "price": 34999,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/kingsize-bed.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "Queen Size Bed",
+                "price": 27990,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/queen-size-bed.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "Dresser",
+                "price": 13599,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/dresser.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "Single Bed",
+                "price": 10449,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/single-bed.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "Computer Table",
+                "price": 8990,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "Assets/img/computer-table.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

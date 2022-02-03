@@ -80,6 +80,14 @@ body {
   letter-spacing: var(--mainSpacing);
   margin-bottom: 3rem;
 }
+@media (max-width:419px) and (min-width:60px){
+  .banner-title{
+    font-size: 2rem;
+  }
+  .main-logo {
+    height: 35px;
+  }
+}
 .banner-btn {
   padding: 1rem 3rem;
   text-transform: uppercase;
@@ -197,6 +205,11 @@ body {
   padding: 1.5rem;
   transition: var(--mainTransition);
   transform: translateX(100%);
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.cart::-webkit-scrollbar{
+  width: 0px;
 }
 .showCart {
   transform: translateX(0);
